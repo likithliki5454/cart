@@ -1,0 +1,19 @@
+.products {
+    width: 23rem;
+    max-width: 90%;
+    margin: 2rem auto;
+  }
+  
+  .products ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .products li {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
